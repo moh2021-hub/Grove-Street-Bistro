@@ -28,7 +28,7 @@ A restaurant ordering website built with **PHP, MySQL, JavaScript, HTML, and CSS
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/moh2021-hub/Grove-Street-Bistro.git
 ```
 
 Place the project folder inside your local web server directory, such as `htdocs` for XAMPP.
